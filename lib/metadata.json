@@ -1,6 +1,6 @@
 {
   "vaultName": "Death-Sleeps-Here",
-  "lastExport": 1724611033119,
+  "lastExport": 1724611189913,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
   "useCustomHeadContent": false,
@@ -113,439 +113,439 @@
   ],
   "fileInfo": {
     "Character Creation/0.1 Getting Started/Creating a Character.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1304,
       "exportedPath": "character-creation/0.1-getting-started/creating-a-character.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Angel.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 550,
       "exportedPath": "character-creation/ancestry/angel.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Demi-God.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 387,
       "exportedPath": "character-creation/ancestry/demi-god.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Devil.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 394,
       "exportedPath": "character-creation/ancestry/devil.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Dwarf.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 301,
       "exportedPath": "character-creation/ancestry/dwarf.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Elf.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 345,
       "exportedPath": "character-creation/ancestry/elf.html",
       "dependencies": []
     },
     "Character Creation/Ancestry/Human.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 314,
       "exportedPath": "character-creation/ancestry/human.html",
       "dependencies": []
     },
     "Character Creation/Classes/Bard/Core Bard.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 2269,
       "exportedPath": "character-creation/classes/bard/core-bard.html",
       "dependencies": []
     },
     "Character Creation/Classes/Bard/Jester.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 984,
       "exportedPath": "character-creation/classes/bard/jester.html",
       "dependencies": []
     },
     "Character Creation/Classes/Blade Dancer/Core Blade Dancer.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 626,
       "exportedPath": "character-creation/classes/blade-dancer/core-blade-dancer.html",
       "dependencies": []
     },
     "Character Creation/Classes/Blade Dancer/Flame Dancer.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1965,
       "exportedPath": "character-creation/classes/blade-dancer/flame-dancer.html",
       "dependencies": []
     },
     "Character Creation/Classes/Cleric/Core Cleric.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 2242,
       "exportedPath": "character-creation/classes/cleric/core-cleric.html",
       "dependencies": []
     },
     "Character Creation/Classes/Cleric/Shield of the Faith.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 743,
       "exportedPath": "character-creation/classes/cleric/shield-of-the-faith.html",
       "dependencies": []
     },
     "Character Creation/Classes/Rogue/Core Rogue.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1987,
       "exportedPath": "character-creation/classes/rogue/core-rogue.html",
       "dependencies": []
     },
     "Character Creation/Classes/Rogue/Cutthroat.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 828,
       "exportedPath": "character-creation/classes/rogue/cutthroat.html",
       "dependencies": []
     },
     "Character Creation/Classes/Slayer/Core Slayer.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 2372,
       "exportedPath": "character-creation/classes/slayer/core-slayer.html",
       "dependencies": []
     },
     "Character Creation/Classes/Slayer/Glory Seeker.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 824,
       "exportedPath": "character-creation/classes/slayer/glory-seeker.html",
       "dependencies": []
     },
     "Character Creation/Classes/Slayer/Horde Breaker.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 0,
       "exportedPath": "character-creation/classes/slayer/horde-breaker.html",
       "dependencies": []
     },
     "Character Creation/Classes/Vanquisher/Core Vanquisher.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1989,
       "exportedPath": "character-creation/classes/vanquisher/core-vanquisher.html",
       "dependencies": []
     },
     "Character Creation/Classes/Vanquisher/Prophet.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 639,
       "exportedPath": "character-creation/classes/vanquisher/prophet.html",
       "dependencies": []
     },
     "Character Creation/Classes/Vanquisher/Zealot.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 409,
       "exportedPath": "character-creation/classes/vanquisher/zealot.html",
       "dependencies": []
     },
     "Conditions/Annoyed.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 230,
       "exportedPath": "conditions/annoyed.html",
       "dependencies": []
     },
     "Conditions/Dazed.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 59,
       "exportedPath": "conditions/dazed.html",
       "dependencies": []
     },
     "Conditions/Frail.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 50,
       "exportedPath": "conditions/frail.html",
       "dependencies": []
     },
     "Conditions/Hidden.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 141,
       "exportedPath": "conditions/hidden.html",
       "dependencies": []
     },
     "Conditions/Ignited.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 223,
       "exportedPath": "conditions/ignited.html",
       "dependencies": []
     },
     "Conditions/Incandescent.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 112,
       "exportedPath": "conditions/incandescent.html",
       "dependencies": []
     },
     "Conditions/Prone.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 160,
       "exportedPath": "conditions/prone.html",
       "dependencies": []
     },
     "Conditions/Unbalanced.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 87,
       "exportedPath": "conditions/unbalanced.html",
       "dependencies": []
     },
     "Equipment/Armor.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1191,
       "exportedPath": "equipment/armor.html",
       "dependencies": []
     },
     "Equipment/Melee Weapons.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1390,
       "exportedPath": "equipment/melee-weapons.html",
       "dependencies": []
     },
     "Equipment/Ranged Weapons.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 71,
       "exportedPath": "equipment/ranged-weapons.html",
       "dependencies": []
     },
     "Rules/Actions/Basic Actions.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 666,
       "exportedPath": "rules/actions/basic-actions.html",
       "dependencies": []
     },
     "Rules/Actions/Interrupt.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 68,
       "exportedPath": "rules/actions/interrupt.html",
       "dependencies": []
     },
     "Rules/Actions/Reactions.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 217,
       "exportedPath": "rules/actions/reactions.html",
       "dependencies": []
     },
     "Rules/Combat/Basic Attack.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 517,
       "exportedPath": "rules/combat/basic-attack.html",
       "dependencies": []
     },
     "Rules/Combat/Blaze.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 622,
       "exportedPath": "rules/combat/blaze.html",
       "dependencies": []
     },
     "Rules/Combat/Critical Hit.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 321,
       "exportedPath": "rules/combat/critical-hit.html",
       "dependencies": []
     },
     "Rules/Combat/Dying.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 84,
       "exportedPath": "rules/combat/dying.html",
       "dependencies": []
     },
     "Rules/Combat/Initiative.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 680,
       "exportedPath": "rules/combat/initiative.html",
       "dependencies": []
     },
     "Rules/Combat/The Basics.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 299,
       "exportedPath": "rules/combat/the-basics.html",
       "dependencies": []
     },
     "Rules/The Dice/2d10.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 127,
       "exportedPath": "rules/the-dice/2d10.html",
       "dependencies": []
     },
     "Rules/The Dice/Advantage.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 87,
       "exportedPath": "rules/the-dice/advantage.html",
       "dependencies": []
     },
     "Rules/The Dice/Disadvantage.md": {
-      "modifiedTime": 1724610778473,
+      "modifiedTime": 1724611189913,
       "sourceSize": 89,
       "exportedPath": "rules/the-dice/disadvantage.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 25503,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 3176,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1724611033119,
+      "modifiedTime": 1724611189913,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
