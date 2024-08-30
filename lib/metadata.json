@@ -1,6 +1,6 @@
 {
   "vaultName": "Death-Sleeps-Here",
-  "lastExport": 1724971291950,
+  "lastExport": 1724988278392,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
   "useCustomHeadContent": false,
@@ -38,6 +38,7 @@
     "Conditions/Prone.md",
     "Conditions/Unbalanced.md",
     "Equipment/Armor.md",
+    "Equipment/Equipping Equipment.md",
     "Equipment/Melee Weapons.md",
     "Equipment/Ranged Weapons.md",
     "Rules/Actions/Basic Actions.md",
@@ -159,14 +160,14 @@
       "dependencies": []
     },
     "Character Creation/Classes/Bard/Core Bard.md": {
-      "modifiedTime": 1724971130067,
-      "sourceSize": 2266,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 2327,
       "exportedPath": "character-creation/classes/bard/core-bard.html",
       "dependencies": []
     },
     "Character Creation/Classes/Bard/Jester.md": {
-      "modifiedTime": 1724971291950,
-      "sourceSize": 989,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 1002,
       "exportedPath": "character-creation/classes/bard/jester.html",
       "dependencies": []
     },
@@ -183,14 +184,14 @@
       "dependencies": []
     },
     "Character Creation/Classes/Cleric/Core Cleric.md": {
-      "modifiedTime": 1724970221118,
-      "sourceSize": 2322,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 2531,
       "exportedPath": "character-creation/classes/cleric/core-cleric.html",
       "dependencies": []
     },
     "Character Creation/Classes/Cleric/Shield of the Faith.md": {
-      "modifiedTime": 1724611189913,
-      "sourceSize": 743,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 1173,
       "exportedPath": "character-creation/classes/cleric/shield-of-the-faith.html",
       "dependencies": []
     },
@@ -207,8 +208,8 @@
       "dependencies": []
     },
     "Character Creation/Classes/Slayer/Core Slayer.md": {
-      "modifiedTime": 1724815898869,
-      "sourceSize": 2328,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 2301,
       "exportedPath": "character-creation/classes/slayer/core-slayer.html",
       "dependencies": []
     },
@@ -237,8 +238,8 @@
       "dependencies": []
     },
     "Character Creation/Classes/Vanquisher/Zealot.md": {
-      "modifiedTime": 1724611189913,
-      "sourceSize": 409,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 456,
       "exportedPath": "character-creation/classes/vanquisher/zealot.html",
       "dependencies": []
     },
@@ -291,20 +292,20 @@
       "dependencies": []
     },
     "Equipment/Armor.md": {
-      "modifiedTime": 1724808338300,
+      "modifiedTime": 1724988278392,
       "sourceSize": 946,
       "exportedPath": "equipment/armor.html",
       "dependencies": []
     },
     "Equipment/Melee Weapons.md": {
-      "modifiedTime": 1724816187700,
-      "sourceSize": 1703,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 1732,
       "exportedPath": "equipment/melee-weapons.html",
       "dependencies": []
     },
     "Equipment/Ranged Weapons.md": {
-      "modifiedTime": 1724611189913,
-      "sourceSize": 71,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 744,
       "exportedPath": "equipment/ranged-weapons.html",
       "dependencies": []
     },
@@ -345,8 +346,8 @@
       "dependencies": []
     },
     "Rules/Combat/Dying.md": {
-      "modifiedTime": 1724611189913,
-      "sourceSize": 84,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 100,
       "exportedPath": "rules/combat/dying.html",
       "dependencies": []
     },
@@ -381,175 +382,175 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1724971291950,
-      "sourceSize": 26762,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 27102,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1724971291950,
-      "sourceSize": 3331,
+      "modifiedTime": 1724988278392,
+      "sourceSize": 3212,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1724971291950,
+      "modifiedTime": 1724988278392,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -576,6 +577,12 @@
       "modifiedTime": 1724815898869,
       "sourceSize": 52,
       "exportedPath": "conditions/necrosis.html",
+      "dependencies": []
+    },
+    "Equipment/Equipping Equipment.md": {
+      "modifiedTime": 1724988278392,
+      "sourceSize": 922,
+      "exportedPath": "equipment/equipping-equipment.html",
       "dependencies": []
     }
   }
